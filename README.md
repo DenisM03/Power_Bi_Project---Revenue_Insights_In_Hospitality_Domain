@@ -21,11 +21,13 @@ The data was provided by Codebasics as part of Codebasicsresumechallenge, in ass
     5. fact_bookings
 
 ## Moc-up Dashboard  
+![mock up dashboard_atliq grands](https://github.com/DenisM03/Power_Bi_Project---Revenue_Insights_In_Hospitality_Domain/assets/163861750/12859814-29a8-473f-b120-07f790c39970)
 
 ## Data Model 
-
+![Screenshot 2024-05-03 223242](https://github.com/DenisM03/Power_Bi_Project---Revenue_Insights_In_Hospitality_Domain/assets/163861750/89610e3c-ae22-4635-ba15-a3e9c429e5ac)
 
 ## Analytical Dashboard   
+![Screenshot 2024-05-15 194128](https://github.com/DenisM03/Power_Bi_Project---Revenue_Insights_In_Hospitality_Domain/assets/163861750/d692a561-1208-4475-9b3c-8774cc22fa13)
 
 ## Tools Used   
 Excel,PowerBi 
@@ -56,7 +58,6 @@ Excel,PowerBi
 ⭐ DURN [Daily Utilized Room Nights]      
 ⭐ Revenue Change %[Revenue change percentage change week over week]   
 ⭐ Occupancy Change % [Occupancy change percentage week over week]  
-
 ⭐ ADR Change % [Average Daily Rate change percentage week over week]   
 ⭐ RevPAR  Change % [Revenue Per Available Room change week over week]   
 ⭐ Realisation Change % [Realisation change percentage week over week]    
